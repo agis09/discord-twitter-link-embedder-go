@@ -1,0 +1,1 @@
+GOOS=windows GOARCH=amd64 go build -o discord-twitter-link-embedder-go.exe main.go
